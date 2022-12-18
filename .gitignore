@@ -1,0 +1,5 @@
+# object files
+*.o
+
+# ELF file
+surf
